@@ -8,8 +8,8 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@carlosh_r360)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloshsantiago360@gmail.com"></a>)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=gruvbox)](https://github.com/CaosH360)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaosH360&layout=donut)](https://github.com/CaosH360)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=dracula)](https://github.com/CaosH360)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaosH360&layout=donut&theme=dracula)](https://github.com/CaosH360)
 </div>
 
 
