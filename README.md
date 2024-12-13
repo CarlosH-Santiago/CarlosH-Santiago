@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00000&center=true&vCenter=true&width=700&height=70&lines=Ol%C3%A1;Eu+me+chamo+Carlos" alt="Typing SVG" />
-
+</h1>
   
 ### Tem mais sobre mim ou meus contatos logo abaixo
 
