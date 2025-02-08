@@ -18,8 +18,9 @@
 
 <div style="display: inline_block"><br>
   <h3>IDE´s:</h3>
-  <img align="center" alt="CH-React" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="CH-React" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img align="center" alt="CH-VSCode" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img  align="center" alt="CH-Intelji" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="CH-Eclipse" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 </div>
   <div style="display: inline_block"><br>
     
