@@ -10,9 +10,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-h-santiago-7411a52a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@carlosh_r360)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloshsantiago360@gmail.com"></a>)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="400px" align="right">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=dracula)](https://github.com/CaosH360)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaosH360&layout=donut&theme=dracula)](https://github.com/CaosH360)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="250px" align="right">
 </div>
 
 
