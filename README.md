@@ -37,6 +37,8 @@
   <img align="center" alt="CH-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="CH-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
+
+
 <h3>Pretendo em breve estudar:</h3>
 <img alt="CH-Angular" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img alt="CH-Flutter" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
@@ -44,4 +46,7 @@
 <img alt="CH-C#" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img alt="CH-GOLANG" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=CaosH360&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=d,F[,Y]&theme=gruvbox-duo)](https://git.io/streak-stats)
+
+  
 </div>
