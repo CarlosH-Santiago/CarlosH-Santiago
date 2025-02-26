@@ -49,10 +49,3 @@
 
   
 </div>
-
-<div style="display: center">
-<br>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=CaosH360&theme=dracula&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=d,%20F[,%20Y])](https://git.io/streak-stats)
-  
-</div>
