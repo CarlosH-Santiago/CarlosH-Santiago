@@ -28,12 +28,12 @@
 <div align=center>
   
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" width=390 src="https://streak-stats.demolab.com/?user=CaosH360&theme=dracula&border=61dafb&hide_border=true" alt="CaosH360" />
+  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=CaosH360&theme=dracula&border=61dafb&hide_border=true" alt="CaosH360" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
 </a>
-<br>
+<br><br>
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaosH360&layout=donut&theme=dracula)](https://github.com/CaosH360)
