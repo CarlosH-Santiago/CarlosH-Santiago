@@ -2,11 +2,12 @@
 
 <h1 align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00000&center=true&vCenter=true&width=700&height=70&lines=Ol%C3%A1;Eu+me+chamo+Carlos" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+world%2C+my+name+is+Carlos+H;this+is+my+code+space)](https://git.io/typing-svg)
+  
 
 </h1>
   
-### Tem mais sobre mim ou meus contatos logo abaixo
+### There is more about me or my contacts below
 
 <div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="250px" align="right">
@@ -60,7 +61,7 @@
 
 
 <br>
-<h3>Pretendo em breve estudar:</h3>
+<h3>I intend to study soon:</h3>
 <img alt="CH-Angular" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img alt="CH-Flutter" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img  alt="CH-C" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
