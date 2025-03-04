@@ -79,21 +79,16 @@
 <h2 align="center"> Repositories </h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/CaosH360/ordem_servico" title="Ordem de Serviço"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=ordem_servico&theme=dracula&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/CaosH360/site_totoenses" title="Ordem de Serviço"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=site_totoenses&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/CaosH360/ordem_servico" title="Ordem de Serviço"><img align="left" width="450" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=ordem_servico&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CaosH360/site_totoenses" title="Site Totoenses"><img align="right" width="450" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=site_totoenses&theme=dracula&border_color=61dafb&border_radius=10"></a>
   
 
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/CaosH360/manga_rosa_memory_game--oat_1" title="Ordem de Serviço"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=manga_rosa_memory_game--oat_1&theme=dracula&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/CaosH360/listas_exercicio_ED" title="Ordem de Serviço"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=listas_exercicio_ED&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/CaosH360/Calculadora-WEB" title="Calculadora WEB"><img align="left" width="450" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=Calculadora-WEB&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CaosH360/listas_exercicio_ED" title="Listas de Exercicio de ED"><img align="right" width="450" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=listas_exercicio_ED&theme=dracula&border_color=61dafb&border_radius=10"></a>
 
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/CaosH360/Calculadora-WEB" title="Ordem de Serviço"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=Calculadora-WEB&theme=dracula&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/CaosH360/repo_redes_computadore" title="Ordem de Serviço"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=repo_redes_computadore&theme=dracula&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
