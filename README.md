@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=150&section=header" />
 
 <h1 align="center">
   
@@ -80,7 +80,10 @@
 
   <hr>
 
-<h2 align="center"> Repositories </h2>
+![header](https://capsule-render.vercel.app/api?type=venom&text=Repositories&fontColor=ffffff)
+
+<hr>
+
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/CaosH360/ordem_servico" title="Ordem de Serviço"><img align="left" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CaosH360&repo=ordem_servico&theme=dracula&border_color=61dafb&border_radius=10"></a>
@@ -99,3 +102,5 @@
 <h4 align="center">
   <a href="https://github.com/CaosH360?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=150&section=footer" />
