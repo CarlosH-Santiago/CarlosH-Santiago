@@ -29,18 +29,6 @@
 
 <div align=center>
   
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" width=390 src="https://streak-stats.demolab.com/?user=CaosH360&theme=dracula&border=61dafb&hide_border=true" alt="CaosH360" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-</a>
-<br><br>
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaosH360&layout=donut&theme=dracula)](https://github.com/CaosH360)
-
-  <br>
 <div style="display: inline_block">
   <h3>IDE´s:</h3>
   <img align="center" alt="CH-VSCode" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -71,7 +59,31 @@
 <img  alt="CH-C" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img alt="CH-C#" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img alt="CH-GOLANG" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+
+ <br><br>
+ <details align="center">
+     <summary>
+       <samp>
+         <b>More Info</b>
+       </samp>
+     </summary>
+     <br>
+  <div align="center">
+
+  <br>
+
+
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="center" width=390 src="https://streak-stats.demolab.com/?user=CaosH360&theme=dracula&border=61dafb&hide_border=true" alt="CaosH360" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=CaosH360&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+</a>
+<br><br>
+
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaosH360&layout=donut&theme=dracula)](https://github.com/CaosH360)
+
 </div>
 <br><br>
   <hr>
@@ -103,5 +115,7 @@
 <h4 align="center">
   <a href="https://github.com/CaosH360?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+ </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=150&section=footer" />
