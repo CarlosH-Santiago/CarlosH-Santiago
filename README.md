@@ -63,7 +63,7 @@
 
 <br><br><br>
 
-![snake gif](https://github.com/CaosH360/CaosH360/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/CaosH360/CaosH360/output/snake.svg" alt="Snake animation" />
 
  <br><br>
  <details align="center">
