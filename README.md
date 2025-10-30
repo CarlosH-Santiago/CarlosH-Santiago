@@ -1,5 +1,3 @@
-![snake animation](https://github.com/CarlosH-Santiago/CarlosH-Santiago/blob/output/github-contribution-grid-snake2.svg)
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=150&section=header" />
 
