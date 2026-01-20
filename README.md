@@ -106,7 +106,7 @@
 
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/CarlosH-Santiago/ordem_servico" title="Ordem de Serviço"><img align="left" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=ordem_servico&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/CarlosH-Santiago/gestao_confeitaria_frontend_oat2-nosql" title="Gestao de Confeitaria Frontend"><img align="left" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=gestao_confeitaria_frontend_oat2-nosql&theme=dracula&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/CarlosH-Santiago/site_totoenses" title="Site Totoenses"><img align="right" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=site_totoenses&theme=dracula&border_color=61dafb&border_radius=10"></a>
   
 
