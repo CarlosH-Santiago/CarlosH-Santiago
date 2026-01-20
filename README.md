@@ -80,25 +80,23 @@
   <br>
 
 
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" width=390 src="https://streak-stats.demolab.com/?user=CarlosH-Santiago&theme=dracula&border=61dafb&hide_border=true" alt="CarlosH-Santiago" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=CarlosH-Santiago&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-</a>
-<br><br>
+ | <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="center" width=390 src="https://streak-stats.demolab.com/?user=CarlosH-Santiago&theme=dracula&border=61dafb&hide_border=true" alt="CarlosH-Santiago" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=CarlosH-Santiago&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" /></a> |
+ | :-: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosH-Santiago&layout=donut&theme=dracula)](https://github.com/CarlosH-Santiago) |
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosH-Santiago&layout=donut&theme=dracula)](https://github.com/CarlosH-Santiago)
 
 </div>
 <br><br>
-  <hr>
-<br><br>
+<hr>
+<br>
+<div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosH-Santiago&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosH-Santiago&theme=dracula&width="100%) |
+ | :-: |
 
-  <hr>
+</div>
+<br>
+<hr>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Repositories&fontColor=ffffff)
 
