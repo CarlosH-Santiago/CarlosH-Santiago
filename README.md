@@ -47,6 +47,7 @@
   <img align="center" alt="CH-NodeJS" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="CH-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="CH-MongoDB" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <br> <br>
   <img align="center" alt="CH-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="CH-Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="CH-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -108,14 +109,14 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/CarlosH-Santiago/gestao_confeitaria_frontend_oat2-nosql" title="Gestao de Confeitaria Frontend"><img align="left" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=gestao_confeitaria_frontend_oat2-nosql&theme=dracula&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/CarlosH-Santiago/site_totoenses" title="Site Totoenses"><img align="right" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=site_totoenses&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CarlosH-Santiago/CombustionCarApp_DIO_Cognizant" title="Combustion Car App DIO e Cognizant"><img align="right" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=CombustionCarApp_DIO_Cognizant&theme=dracula&border_color=61dafb&border_radius=10"></a>
   
 
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/CarlosH-Santiago/manga_rosa_memory_game--oat_1" title="Manga Rosa Memory Game"><img align="left" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=manga_rosa_memory_game--oat_1&theme=dracula&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/CarlosH-Santiago/listas_exercicio_ED" title="Listas de Exercicio de ED"><img align="right" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=listas_exercicio_ED&theme=dracula&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CarlosH-Santiago/GitHubSearch" title="Git Hub Search App  DIO e Cognizant"><img align="right" width="350" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosH-Santiago&repo=GitHubSearch&theme=dracula&border_color=61dafb&border_radius=10"></a>
 
 </div>
 <br/><br/><br/><br/><br/><br/>
