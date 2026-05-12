@@ -1,0 +1,106 @@
+# Galaxy Profile README Configuration
+# Copy this file to config.yml and customize it to make it your own!
+#
+# Usage:
+#   cp config.example.yml config.yml
+#   # Edit config.yml with your details
+#   python -m generator.main
+#
+# Demo mode (no API calls, uses this file directly):
+#   python -m generator.main --demo
+
+# Your GitHub username (required)
+username: CarlosH-Santiago
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Caos Dev"
+  tagline: "Software Engineer"
+  company: "Freelancer"
+  location: "Bahia, Brazil"
+  bio: |
+    Many know me as "Caos" (Chaos), 
+    but not for the common definition of disorder. 
+    To me, "Caos" represents the raw energy that precedes 
+    creation—the drive to transform complex chaos into structured, 
+    functional, and scalable solutions.."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "carloshsssantiago@gmail.com"
+  linkedin: "carlos-h-santiago"
+  website: "https://portfolio-carlos-henrique.vercel.app/"
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "Mobile & Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "CSS"
+      - "Angular"
+      - "Kotlin"
+  - name: "Backend & Systems"
+    color: "synapse_cyan"
+    items:
+      - "Java"
+      - "PHP"
+      - "Python"
+      - "Node.js"
+      - "MySQL"
+      - "MongoDB"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Git"
+      - "Docker"
+
+# Featured projects shown as constellation stars
+# Each project needs:
+#   repo: "owner/repo-name"   — GitHub repository path
+#   arm: 0-2                  — Which galaxy arm to associate with (index)
+#   description: "..."        — Short description shown on the card
+projects:
+  - repo: "CarlosH-Santiago/GitHubSearch"
+    arm: 0
+    description: "Este é um aplicativo Android desenvolvido como parte de um desafio. Ele permite ao usuário pesquisar por um nome de usuário no GitHub e exibe uma lista de seus repositórios públicos."
+  - repo: "CarlosH-Santiago/CombustionCarApp_DIO_Cognizant"
+    arm: 1
+    description: "Aplicativo Android para calcular a autonomia de carros a combustão, construído com Kotlin e componentes modernos do Android."
+  - repo: "CarlosH-Santiago/manga_rosa_memory_game--oat_1"
+    arm: 0
+    description: "Implementação de um Jogo da Memória via terminal, desenvolvido como parte da OAT 1 da diciplina de Estrutura de dados."
+
+# Theme color overrides (optional — defaults to deep space palette)
+# All values must be valid hex color codes (#RRGGBB)
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+# Stats configuration — which metrics to show on the telemetry card
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     # Languages to hide from the telemetry chart
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8               # Maximum number of languages to show
