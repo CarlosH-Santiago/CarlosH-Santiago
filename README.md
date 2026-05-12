@@ -33,19 +33,26 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+🎯 Beyond the Code:
 
-**Currently at** Stellar Labs — San Francisco, CA
+Many know me as "Caos" (Chaos), but not for the common definition of disorder. To me, "Caos" represents the raw energy that precedes creation—the drive to transform complex chaos into structured, functional, and scalable solutions.
+
+𝄞 Musician: Music is where I draw my creativity for problem-solving and the discipline required for continuous, lifelong learning.
+
+🏎️ Automotive Enthusiast: I look to the world of motorsports for inspiration in performance optimization and precision engineering. I believe great software should run as efficiently as a high-performance engine.
+
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:carloshsssantiago@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/carlos-h-santiago/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/carlos-h-santiago/](https://www.instagram.com/caos.dev?igsh=eHZ5ZW5oZ3M0NzVt)">
+    <img src="(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/>
   </a>
 </div>
