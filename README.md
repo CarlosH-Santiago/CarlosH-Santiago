@@ -52,7 +52,7 @@ Many know me as "Caos" (Chaos), but not for the common definition of disorder. T
   <a href="https://www.linkedin.com/in/carlos-h-santiago/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
-  <a href="[https://www.linkedin.com/in/carlos-h-santiago/](https://www.instagram.com/caos.dev?igsh=eHZ5ZW5oZ3M0NzVt)">
-    <img src="(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/>
+  <a href="https://www.instagram.com/caos.dev">
+    <img src="https://img.shields.io/badge/Instagram-080c14?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram"/>
   </a>
 </div>
