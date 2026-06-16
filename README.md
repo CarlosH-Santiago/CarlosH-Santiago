@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=150&section=header" />
+
 <!-- Galaxy Profile README Template
      Customize this file with your own info, then rename it to README.md
      in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
@@ -50,9 +52,15 @@ Many know me as "Caos" (Chaos), but not for the common definition of disorder. T
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-h-santiago/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/caos.dev">
     <img src="https://img.shields.io/badge/Instagram-080c14?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram"/>
   </a>
+  <a href="https://beacons.ai/caosdev">
+    <img src="https://img.shields.io/badge/Bio%20Link-080c14.svg?style=for-the-badge&logo=Bio-Link&logoColor=a78bfa" alt="BioLink"/>
+  </a>
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=150&section=footer" />
